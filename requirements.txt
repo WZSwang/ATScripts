@@ -13,7 +13,7 @@ autobahn==20.2.1
 Automat==0.8.0
 baidu-aip==2.2.18.0
 beautifulsoup4==4.8.2
-bleach==1.5.0
+bleach==3.1.4
 cachetools==4.0.0
 captcha==0.3
 certifi==2019.11.28
