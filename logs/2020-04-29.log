@@ -1,0 +1,11 @@
+2020-04-29 16:10:48,666 接口测试 INFO None 本次请求没有参数
+2020-04-29 16:10:48,667 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:10:48,701 接口测试 INFO None 本次请求没有参数
+2020-04-29 16:10:48,701 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:11:23,720 接口测试 INFO None 本次请求没有参数
+2020-04-29 16:11:23,720 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:11:23,730 接口测试 INFO None 本次请求没有参数
+2020-04-29 16:11:23,731 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:54:25,740 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:54:25,808 接口测试 ERROR None 'NoneType' object has no attribute 'upper'
+2020-04-29 16:58:14,779 接口测试 ERROR None 'NoneType' object has no attribute 'upper'

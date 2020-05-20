@@ -1,0 +1,90 @@
+2019-11-26 09:55:11,497 接口测试 ERROR https://cnodejs.org/api/v1/topics 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:11,907 接口测试 ERROR https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:12,188 接口测试 ERROR https://cnodejs.org/api/v1/topic_collect/collect 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:12,469 接口测试 ERROR https://cnodejs.org/api/v1//topic_collect/de_collect 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:12,945 接口测试 ERROR https://cnodejs.org/api/v1/user/alsotang 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:13,251 接口测试 ERROR https://cnodejs.org/api/v1/message/mark_all 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 09:55:14,060 接口测试 ERROR https://www.v2ex.com/api/site/info.json 'CaseInsensitiveDict' object has no attribute 'split'
+2019-11-26 11:34:46,412 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:34:47,281 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:47,281 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:47,287 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:34:47,957 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:47,957 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:47,962 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:34:48,333 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:48,334 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:48,338 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:34:48,782 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:48,783 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:48,787 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:34:49,180 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:49,181 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:49,185 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:34:49,524 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:49,525 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:34:49,530 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:34:50,370 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:34:50,370 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:35:35,699 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:35:36,648 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:35:37,408 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:35:37,824 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:35:38,365 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:35:39,107 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:35:39,606 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:35:40,594 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:35:40,594 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:37:11,064 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:37:11,777 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:37:12,290 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:37:12,560 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:37:12,922 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:37:13,387 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:37:13,689 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:37:14,641 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:37:14,641 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:40:26,562 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:40:27,217 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:40:27,672 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:40:27,948 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:40:28,222 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:40:28,621 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:40:28,893 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:40:29,752 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:40:29,752 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:41:13,752 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:41:14,436 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:41:14,846 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:41:15,119 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:41:15,419 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:41:15,786 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:41:16,200 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:41:17,040 接口测试 ERROR allure报告生成失败: [WinError 2] 系统找不到指定的文件。
+2019-11-26 11:41:17,040 接口测试 WARNING 由于本次执行生成allure报告失败，故不发送邮件， 请检查测试环境和相关变量
+2019-11-26 11:42:22,628 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:42:23,267 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:42:23,704 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:42:24,011 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:42:24,284 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:42:24,614 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:42:24,915 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:48:22,493 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:48:23,765 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:48:24,584 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:48:25,312 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:48:26,008 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:48:26,687 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:48:27,361 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:48:30,897 接口测试 INFO 正在向 ['tingyuweilou@163.com'] 发送邮件
+2019-11-26 11:51:38,287 接口测试 INFO 邮件发送成功
+2019-11-26 11:54:18,810 接口测试 INFO https://cnodejs.org/api/v1/topics 本次请求没有参数
+2019-11-26 11:54:19,621 接口测试 INFO https://cnodejs.org/api/v1/topic/5433d5e4e737cbe96dcef312 本次请求没有参数
+2019-11-26 11:54:20,239 接口测试 INFO https://cnodejs.org/api/v1/topic_collect/collect 本次请求没有参数
+2019-11-26 11:54:20,733 接口测试 INFO https://cnodejs.org/api/v1//topic_collect/de_collect 本次请求没有参数
+2019-11-26 11:54:21,141 接口测试 INFO https://cnodejs.org/api/v1/user/alsotang 本次请求没有参数
+2019-11-26 11:54:21,600 接口测试 INFO https://cnodejs.org/api/v1/message/mark_all 本次请求没有参数
+2019-11-26 11:54:22,006 接口测试 INFO https://www.v2ex.com/api/site/info.json 本次请求没有参数
+2019-11-26 11:54:26,696 接口测试 INFO 正在向 ['tingyuweilou@163.com'] 发送邮件
+2019-11-26 11:54:31,039 接口测试 INFO 邮件发送成功
+2019-11-26 11:54:31,039 接口测试 INFO 向 ['tingyuweilou@163.com'] 发送邮件成功

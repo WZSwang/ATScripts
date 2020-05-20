@@ -1,0 +1,4 @@
+.pytest_code/*
+.idea/*
+venv/*
+report/*
