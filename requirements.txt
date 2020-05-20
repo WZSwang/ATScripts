@@ -133,4 +133,3 @@ wrapt==1.12.1
 wxpy==0.3.9.8
 xlrd==1.2.0
 zipp==2.2.0
-zope.interface==4.7.1
