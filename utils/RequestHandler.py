@@ -8,7 +8,7 @@ import re
 import requests
 from jsonpath_rw import parse
 from utils.LoggerHandler import logger
-from utils.ExcelHandler import ExcelHandler
+from utils.ExcelHandler import ExcelOperate
 log = logger()
 
 class RequestHandler(object):
@@ -195,8 +195,8 @@ class RequestHandler(object):
 if __name__ == '__main__':
     import os
     from conf import config
-    data_list = ExcelHandler(file_path=os.path.join(config.DATA_PATH, '接口测试示例-2.xlsx'), sheet_by=2).get_dict_sheet()
-    for i in data_list:
-        RequestHandler(current_case=i, all_case_data=data_list).get_response
-    print('原始列表----------', data_list)
+    # data_list = ExcelOperate(file_path=os.path.join(config.DATA_PATH, '接口测试示例-2.xlsx'), sheet_by=2).get_dict_sheet()
+    # for i in data_list:
+    #     RequestHandler(current_case=i, all_case_data=data_list).get_response
+    # print('原始列表----------', data_list)
 

@@ -20,9 +20,7 @@ if __name__ == '__main__':
     # 删除之前的json文件
 
     # print(os.getcwd())
-    dir_path = os.path.join(BASE_DIR, 'report', 'json_result')
-    if os.path.isdir(dir_path):
-        shutil.rmtree(dir_path)
+
     # 更改工作目录
     # os.chdir(BASE_DIR)
     # 执行用例
@@ -34,3 +32,6 @@ if __name__ == '__main__':
     # allure_obj.check_zip()
     # 发邮件
     # allure_obj.send_mail()
+    dir_path = os.path.join(BASE_DIR, 'report', 'json_result')
+    if os.path.isdir(dir_path):
+        shutil.rmtree(dir_path)
