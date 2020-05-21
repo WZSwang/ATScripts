@@ -113,7 +113,7 @@ class RequestsOperate(object):
         # 使用 re 提取依赖字段  {"testfan-token": "${neeo_001>response_json>data}$"}
         if isinstance(parameter, dict):
             parameter = json.dumps(parameter)
-        pattern = re.compile('\${(.*?)}\$')
+        pattern = re.compile(r'\${(.*?)}\$')
         rule_list = pattern.findall(parameter)
         # print(333333333, parameter)
         if rule_list:   # 该参数有数据依赖要处理
