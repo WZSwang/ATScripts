@@ -165,7 +165,7 @@ class RequestHandler(object):
         if isinstance(parameter, dict):  # 传过来的参数可能是 str 但也要保证没有 dict 类型的，后续的操作基于 str 来
             parameter = json.dumps(parameter)
         # 使用正则来查看是否有依赖
-        pattern = re.compile("\${(.*?)}\$")  # .*? 将多出依赖分开处理
+        pattern = re.compile("\\${(.*?)}\\$")  # .*? 将多出依赖分开处理
         match_list = pattern.findall(parameter)
         # print(111111111, match_list, parameter, type(parameter))
         if match_list:  # 有依赖需要处理
